@@ -611,11 +611,6 @@ Saludos cordiales.`;
                 profesional para catering. La puntualidad es nuestro sello
                 distintivo.
               </p>
-              <div className="flex items-center space-x-4 text-sm text-gray-400">
-                <span>Magdalena</span>
-                <span>•</span>
-                <span>683 182 883</span>
-              </div>
             </div>
 
             <div>
