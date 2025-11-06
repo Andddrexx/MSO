@@ -317,28 +317,32 @@ function App() {
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-amber-400 transition-colors duration-300">
+                <div className="bg-white p-6 rounded-xl border border-amber-200 hover:border-amber-400 transition-all duration-300 hover:shadow-lg">
+                  <Utensils className="h-8 w-8 text-amber-500 mb-3" />
                   <div className="font-bold text-gray-800 mb-2">Cocteles personalizados</div>
                   <div className="text-sm text-gray-600">
                     Creaciones exclusivas inspiradas en la temática de tu evento.
                   </div>
                 </div>
-                <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-amber-400 transition-colors duration-300">
+                <div className="bg-white p-6 rounded-xl border border-amber-200 hover:border-amber-400 transition-all duration-300 hover:shadow-lg">
+                  <Award className="h-8 w-8 text-amber-500 mb-3" />
                   <div className="font-bold text-gray-800 mb-2">Experiencia profesional</div>
                   <div className="text-sm text-gray-600">
-                    Años de trayectoria en coctelería y eventos premium.
+                    años de trayectoria en coctelería y eventos premium.
                   </div>
                 </div>
-                <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-amber-400 transition-colors duration-300">
+                <div className="bg-white p-6 rounded-xl border border-amber-200 hover:border-amber-400 transition-all duration-300 hover:shadow-lg">
+                  <PartyPopper className="h-8 w-8 text-amber-500 mb-3" />
                   <div className="font-bold text-gray-800 mb-2">Barras libres completas</div>
                   <div className="text-sm text-gray-600">
-                    Servicio integral con todos los detalles gestionados.
+                    servicio integral con todos los detalles gestionados.
                   </div>
                 </div>
-                <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-amber-400 transition-colors duration-300">
+                <div className="bg-white p-6 rounded-xl border border-amber-200 hover:border-amber-400 transition-all duration-300 hover:shadow-lg">
+                  <Heart className="h-8 w-8 text-amber-500 mb-3" />
                   <div className="font-bold text-gray-800 mb-2">Temática personalizada</div>
                   <div className="text-sm text-gray-600">
-                    Adaptamos el estilo de la barra a tu marca o celebración.
+                    adaptamos el estilo de la barra a tu marca o celebración.
                   </div>
                 </div>
               </div>
