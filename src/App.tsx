@@ -207,7 +207,7 @@ function App() {
             La puntualidad es solo el punto de partida. En nuestra empresa, entendemos que cada evento es una historia única y nos inspira profundamente conocer la visión que hay detrás de cada idea. Por ello, nos dedicamos a diseñar experiencias memorables que trascienden lo convencional y se convierten en momentos inolvidables.
           </p>
           <p className="text-lg md:text-xl mb-8 opacity-0 animate-fade-in-up animation-delay-900 leading-relaxed max-w-4xl mx-auto text-gray-100">
-            Nos posicionamos como el engranaje que articula cada elemento, asegurando que todo funcione con precisión y armonía. Nuestro compromiso es transformar tus expectativas en una realidad tangible, cuidando cada aspecto con rigor, creatividad y profesionalismo.
+             Nuestro compromiso es transformar tus expectativas en una realidad tangible, cuidando cada aspecto con rigor, creatividad y profesionalismo.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center opacity-0 animate-fade-in-up animation-delay-1500">
@@ -384,7 +384,7 @@ function App() {
                 cuenta y cada detalle marca la diferencia.
               </p>
                 <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-                Nos emociona conectar con las personas a través de lo que hacemos y valoramos profundamente la confianza que depositas en nosotros. Hacer realidad tu evento ideal no es solo nuestro trabajo: es nuestra <strong className="text-amber-400">pasión</strong>.
+                Nos posicionamos como el engranaje que articula cada elemento, asegurando que todo funcione con precisión y armonía. Nos emociona conectar con las personas a través de lo que hacemos y valoramos profundamente la confianza que depositas en nosotros. Hacer realidad tu evento ideal no es solo nuestro trabajo: es nuestra <strong className="text-amber-400">pasión</strong>.
               </p>
                 <p>
             
