@@ -626,25 +626,7 @@ Saludos cordiales.`;
                   <Mail className="h-4 w-4 text-amber-400" />
                   <span>info@mayiksolution.es</span>
                 </li>
-                <li className="flex items-center space-x-2">
-                  <MessageCircle className="h-4 w-4 text-amber-400" />
-                  <button
-                    onClick={openWhatsApp}
-                    className="hover:text-amber-400 transition-colors"
-                  >
-                    WhatsApp
-                  </button>
-                </li>
-                <li className="flex items-center space-x-2">
-                  <Mail className="h-4 w-4 text-amber-400" />
-                  <button
-                    onClick={openEmail}
-                    className="hover:text-amber-400 transition-colors"
-                  >
-                    Email
-                  </button>
-                </li>
-                <li className="flex items-center space-x-2">
+                                <li className="flex items-center space-x-2">
                   <Clock className="h-4 w-4 text-amber-400" />
                   <span>Disponible 24/7</span>
                 </li>
