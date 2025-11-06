@@ -384,7 +384,7 @@ function App() {
                 cuenta y cada detalle marca la diferencia.
               </p>
                 <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-                Nos posicionamos como el engranaje que articula cada elemento, asegurando que todo funcione con precisión y armonía. Nos emociona conectar con las personas a través de lo que hacemos y valoramos profundamente la confianza que depositas en nosotros. Hacer realidad tu evento ideal no es solo nuestro trabajo: es nuestra <strong className="text-amber-400">pasión</strong>.
+                Nos posicionamos como el <strong className="text-amber-400">engranaje</strong> que articula cada elemento, asegurando que todo funcione con precisión y armonía. Nos emociona conectar con las personas a través de lo que hacemos y valoramos profundamente la confianza que depositas en nosotros. Hacer realidad tu evento ideal no es solo nuestro trabajo: es nuestra <strong className="text-amber-400">pasión</strong>.
               </p>
                 <p>
             
