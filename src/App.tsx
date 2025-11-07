@@ -212,7 +212,7 @@ function App() {
              Nuestro compromiso es transformar tus expectativas en una realidad tangible, cuidando cada aspecto con rigor, creatividad y profesionalismo.
           </p>
 
-          <p className="text-xs md:text-xl mb-8 md:mb-12 opacity-0 animate-fade-in-up animation-delay-1200 leading-relaxed max-w-4xl mx-auto text-gray-100">
+          <p className="text-xs md:text-xl mb-8 md:mb-12 opacity-0 animate-fade-in-up animation-delay-900 leading-relaxed max-w-4xl mx-auto text-gray-100">
             Nos emociona conectar con las personas a través de lo que hacemos y valoramos profundamente la confianza que depositas en nosotros. Hacer realidad tu evento ideal no es solo nuestro trabajo: es nuestra pasión.
           </p>
           <div className="flex flex-col sm:flex-row gap-2 md:gap-4 justify-center opacity-0 animate-fade-in-up animation-delay-1500 mt-12 md:mt-0">
