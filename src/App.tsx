@@ -19,6 +19,7 @@ import {
   PartyPopper,
   Shield,
 } from 'lucide-react';
+import logogold from "./assets/logogold.svg";
 
 
 function App() {
