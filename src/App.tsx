@@ -362,10 +362,10 @@ function App() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-amber-400 to-amber-600 rounded-3xl blur opacity-20"></div>
-              <img
-                src="https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg"
-                alt="Profesionalidad y puntualidad"
-                className="relative rounded-2xl shadow-2xl w-full h-96 object-cover"
+               <img
+                src={logonegro}
+                alt="Logo de Mayik Solution"
+                className="relative rounded-2xl shadow-2xl w-full h-100 object-contain "
               />
             </div>
 
