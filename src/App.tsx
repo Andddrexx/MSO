@@ -366,6 +366,7 @@ function App() {
                 alt="Logo de Mayik Solution"
                 className="relative rounded-2xl shadow-2xl w-full h-100 object-contain "
               />
+            </div>
 
             <div>
               <h2 className="text-4xl md:text-5xl font-bold mb-8">
