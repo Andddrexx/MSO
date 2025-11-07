@@ -200,29 +200,32 @@ function App() {
         ></div>
 
         <div className="relative z-10 text-center text-white px-4 max-w-5xl mx-auto">
-          <h1 className="text-5xl md:text-7xl font-bold mb-8 opacity-0 animate-fade-in-up animation-delay-300">
+          <h1 className="text-3xl md:text-7xl font-bold mb-4 md:mb-8 opacity-0 animate-fade-in-up animation-delay-300">
             <span className="text-amber-400">Gestión de Eventos</span>
           </h1>
-          <p className="text-lg md:text-xl mb-8 opacity-0 animate-fade-in-up animation-delay-600 leading-relaxed max-w-4xl mx-auto text-gray-100">
+          <p className="text-xs md:text-xl mb-4 md:mb-8 opacity-0 animate-fade-in-up animation-delay-600 leading-relaxed max-w-4xl mx-auto text-gray-100">
             La puntualidad es solo el punto de partida. En nuestra empresa, entendemos que cada evento es una historia única y nos inspira profundamente conocer la visión que hay detrás de cada idea. Por ello, nos dedicamos a diseñar experiencias memorables que trascienden lo convencional y se convierten en momentos inolvidables.
           </p>
-          <p className="text-lg md:text-xl mb-8 opacity-0 animate-fade-in-up animation-delay-900 leading-relaxed max-w-4xl mx-auto text-gray-100">
+          <p className="text-xs md:text-xl mb-4 md:mb-8 opacity-0 animate-fade-in-up animation-delay-900 leading-relaxed max-w-4xl mx-auto text-gray-100">
              Nuestro compromiso es transformar tus expectativas en una realidad tangible, cuidando cada aspecto con rigor, creatividad y profesionalismo.
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center opacity-0 animate-fade-in-up animation-delay-1500">
+          <p className="text-xs md:text-xl mb-8 md:mb-12 opacity-0 animate-fade-in-up animation-delay-1200 leading-relaxed max-w-4xl mx-auto text-gray-100">
+            Nos emociona conectar con las personas a través de lo que hacemos y valoramos profundamente la confianza que depositas en nosotros. Hacer realidad tu evento ideal no es solo nuestro trabajo: es nuestra pasión.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-2 md:gap-4 justify-center opacity-0 animate-fade-in-up animation-delay-1500 mt-12 md:mt-0">
             <button
               onClick={() => scrollToSection('servicios')}
-              className="bg-gradient-to-r from-amber-400 to-amber-500 text-black px-8 py-4 rounded-full text-lg font-semibold hover:from-amber-500 hover:to-amber-600 transform hover:scale-105 transition-all duration-300 shadow-xl flex items-center justify-center space-x-2"
+              className="bg-gradient-to-r from-amber-400 to-amber-500 text-black px-4 md:px-8 py-2 md:py-4 rounded-full text-sm md:text-lg font-semibold hover:from-amber-500 hover:to-amber-600 transform hover:scale-105 transition-all duration-300 shadow-xl flex items-center justify-center space-x-2"
             >
               <span>Nuestros Servicios</span>
-              <ArrowRight className="h-5 w-5" />
+              <ArrowRight className="h-4 md:h-5 w-4 md:w-5" />
             </button>
             <button
               onClick={() => scrollToSection('contacto')}
-              className="border-2 border-amber-400 text-amber-400 px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-400 hover:text-black transition-all duration-300 flex items-center justify-center space-x-2"
+              className="border-2 border-amber-400 text-amber-400 px-4 md:px-8 py-2 md:py-4 rounded-full text-sm md:text-lg font-semibold hover:bg-amber-400 hover:text-black transition-all duration-300 flex items-center justify-center space-x-2"
             >
-              <Calendar className="h-5 w-5" />
+              <Calendar className="h-4 md:h-5 w-4 md:w-5" />
               <span>Solicitar Presupuesto</span>
             </button>
           </div>
