@@ -19,8 +19,7 @@ import {
   PartyPopper,
   Shield,
 } from 'lucide-react';
-import logoblanco from './assets/logoblanco.svg';
-import logonegro from './assets/logonegro.svg';
+
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
