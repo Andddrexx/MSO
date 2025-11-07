@@ -361,13 +361,11 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
-<div className="absolute -inset-4 bg-gradient-to-r from-[#1a1a1a] to-[#332200] rounded-3xl blur opacity-40"></div>
                <img
                 src={logonegro}
                 alt="Logo de Mayik Solution"
                 className="relative rounded-2xl shadow-2xl w-full h-100 object-contain "
               />
-            </div>
 
             <div>
               <h2 className="text-4xl md:text-5xl font-bold mb-8">
