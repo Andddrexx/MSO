@@ -119,8 +119,11 @@ function App() {
           <div className="flex justify-between items-center h-20">
             <div className="flex items-center space-x-3">
               <div className="relative">
-                <Clock className="h-10 w-10 text-amber-400" />
-                <div className="absolute -top-1 -right-1 w-3 h-3 bg-amber-400 rounded-full animate-pulse"></div>
+  <img
+    src={logogold}
+    alt="Logo Mayik Solution"
+    className="h-12 w-auto object-contain"
+  />                <div className="absolute -top-1 -right-1 w-3 h-3 bg-amber-400 rounded-full animate-pulse"></div>
               </div>
               <div>
                 <span className="text-2xl font-bold text-white">Mayik</span>
