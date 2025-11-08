@@ -123,7 +123,7 @@ function App() {
     src={logogold}
     alt="Logo Mayik Solution"
     className="h-12 w-auto object-contain"
-  />                <div className="absolute -top-1 -right-1 w-3 h-3 bg-amber-400 rounded-full animate-pulse"></div>
+  />                
               </div>
               <div>
                 <span className="text-2xl font-bold text-white">Mayik</span>
