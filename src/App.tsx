@@ -602,8 +602,11 @@ Saludos cordiales.`;
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="col-span-1 md:col-span-2">
               <div className="flex items-center space-x-3 mb-6">
-                <Clock className="h-10 w-10 text-amber-400" />
-                <div>
+ <img
+    src={logogold}
+    alt="Logo Mayik Solution"
+    className="h-10 w-auto object-contain"
+  />                <div>
                   <span className="text-2xl font-bold text-white">Mayik</span>
                   <span className="text-2xl font-light text-amber-400 ml-1">
                     Solution
