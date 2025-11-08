@@ -362,7 +362,7 @@ function App() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
                <img
-                src={logonegro}
+                src={logogold}
                 alt="Logo de Mayik Solution"
                 className="relative rounded-2xl shadow-2xl w-full h-100 object-contain "
               />
