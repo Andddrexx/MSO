@@ -225,7 +225,7 @@ function App() {
             >
               <span>Nuestros Servicios</span>
               <ArrowRight className="h-4 md:h-5 w-4 md:w-5" />
-            </button>
+            </button
             <button
               onClick={() => scrollToSection('contacto')}
               className="border-2 border-amber-400 text-amber-400 px-4 md:px-8 py-2 md:py-4 rounded-full text-sm md:text-lg font-semibold hover:bg-amber-400 hover:text-black transition-all duration-300 flex items-center justify-center space-x-2"
