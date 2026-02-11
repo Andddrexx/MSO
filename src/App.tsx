@@ -130,7 +130,7 @@ function App() {
                 <span className="text-2xl font-light text-amber-400 ml-1">
                   Solution
                 </span>
-                <div className="text-xs text-amber-400 font-light tracking-wider"
+                <div className="text-xs text-amber-400 font-light tracking-wider">
                   GESTIÓN DE EVENTOS
                 </div>
               </div>
